@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+######## CANAL ABERTO ######## 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" tvg-logo="http://www.novasonline.com.br/wp-content/uploads/2013/04/Rede-Tv-Hd-tps.png" group-title="CANAL ABERTO",Rede TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7VxqmqIqbBI/VHHwEW40-CI/AAAAAAAAB2U/rFiZWzBDNNc/s1600/redetv.png" group-title="CANAL ABERTO",Rede TV
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1202760617_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7VxqmqIqbBI/VHHwEW40-CI/AAAAAAAAB2U/rFiZWzBDNNc/s1600/redetv.png" group-title="CANAL ABERTO",Rede TV
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuxouqgk9ujegud2JelH7lbNADRECyEgI8YoH3Z5btdA)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
